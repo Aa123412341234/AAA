@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>主程式</title>
+		
+		 <FRAMESET ROWS="5%,35%,60%">
+          <FRAME NAME="top" SRC="file://C:/Users/fayehung/Downloads/網站-前端/時間">
+		  <FRAME NAME="center" SRC="file://C:/Users/fayehung/Downloads/網站-前端/圖片顯示">
+          <FRAME NAME="buttom" SRC="file://C:/Users/fayehung/Downloads/網站-前端/超連結">
+        </FRAMESET>
+		
+    </head>
+	
+    <body>
+	
+	 
+    </body>
+	
+
+
+
+</html>
